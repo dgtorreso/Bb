@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bsb", "bsb\bsb.csproj", "{5D37FF45-D87A-453A-A087-63CF5C76BD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{1B92D80B-5FD9-4806-9A19-1102507F6EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B92D80B-5FD9-4806-9A19-1102507F6EED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1B92D80B-5FD9-4806-9A19-1102507F6EED}.Debug|x86.Build.0 = Debug|Any CPU
+		{1B92D80B-5FD9-4806-9A19-1102507F6EED}.Release|x86.ActiveCfg = Release|Any CPU
+		{1B92D80B-5FD9-4806-9A19-1102507F6EED}.Release|x86.Build.0 = Release|Any CPU
+		{5D37FF45-D87A-453A-A087-63CF5C76BD4A}.Debug|x86.ActiveCfg = Debug|x86
+		{5D37FF45-D87A-453A-A087-63CF5C76BD4A}.Debug|x86.Build.0 = Debug|x86
+		{5D37FF45-D87A-453A-A087-63CF5C76BD4A}.Release|x86.ActiveCfg = Release|x86
+		{5D37FF45-D87A-453A-A087-63CF5C76BD4A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = bsb\bsb.csproj
+	EndGlobalSection
+EndGlobal
