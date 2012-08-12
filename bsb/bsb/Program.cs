@@ -8,7 +8,7 @@ namespace bsb
 		{
 
 		}
-
+		[STAThread] 
 		static void Main()
         {
             Console.ReadKey();
