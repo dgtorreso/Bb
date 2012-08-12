@@ -8,11 +8,7 @@ namespace Datos
 		{
 			//Todo
             
-		}
-        static void Main()
-        {
-            Console.ReadKey();
-        }
+		}        
 	}
 }
 
