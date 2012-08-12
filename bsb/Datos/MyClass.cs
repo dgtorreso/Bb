@@ -7,7 +7,12 @@ namespace Datos
 		public MyClass ()
 		{
 			//Todo
+            
 		}
+        static void Main()
+        {
+            Console.ReadKey();
+        }
 	}
 }
 
