@@ -6,6 +6,7 @@ namespace Datos
 	{
 		public MyClass ()
 		{
+			//Todo
 		}
 	}
 }
