@@ -6,7 +6,7 @@ namespace Datos
 	{
 		public MyClass ()
 		{
-			//Todo
+			//Todo lo que está aquí
             
 		}        
 	}
